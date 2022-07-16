@@ -1,3 +1,5 @@
+#include "main.h"
+
 int main(void)
 {
 	char text[7] = "_putchar";
